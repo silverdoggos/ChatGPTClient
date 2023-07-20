@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7BB58A94-0CD4-46C5-8943-B0EE53F2A9E9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "876D5D6B-12D0-49F9-BE5B-5B4F239FB8B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "ChatViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "420C2522-0228-45EA-9BB7-C506EF3192E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "saveConversation(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "420C2522-0228-45EA-9BB7-C506EF3192E2 - c171dd09345d50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTClient.ChatViewModel.resetConversation() -&gt; ()"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "420C2522-0228-45EA-9BB7-C506EF3192E2 - 64726c56eadbeb56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTClient.ChatViewModel.saveConversation(with: Swift.String) -&gt; ()"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1860">
+               </Location>
+               <Location
+                  uuid = "420C2522-0228-45EA-9BB7-C506EF3192E2 - 2a99a35e6f1e6482"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ChatGPTClient.Message) -&gt; () in ChatGPTClient.ChatViewModel.saveConversation(with: Swift.String) -&gt; ()"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB91DCAD-538C-49FC-A2BC-C6200B80C8C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "saveConversation(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AB91DCAD-538C-49FC-A2BC-C6200B80C8C3 - 2a99a35e6f1e65a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ChatGPTClient.Message) -&gt; () in ChatGPTClient.ChatViewModel.saveConversation(with: Swift.String) -&gt; ()"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "AB91DCAD-538C-49FC-A2BC-C6200B80C8C3 - 64726c56eadbea90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTClient.ChatViewModel.saveConversation(with: Swift.String) -&gt; ()"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC232909-85AB-46B8-9F58-EE4852A1EF31"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "makeConversation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A263956-0DD8-41C5-AD46-068ABF85438A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "makeConversation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5A263956-0DD8-41C5-AD46-068ABF85438A - 7554bc899a970b85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTClient.ConversationCore.makeConversation() -&gt; ChatGPTClient.Conversation"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "5A263956-0DD8-41C5-AD46-068ABF85438A - 8832d2f3a21bd85e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ChatGPTClient.MessageCore) -&gt; ChatGPTClient.Message in ChatGPTClient.ConversationCore.makeConversation() -&gt; ChatGPTClient.Conversation"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "5A263956-0DD8-41C5-AD46-068ABF85438A - 7554bc899a970b85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTClient.ConversationCore.makeConversation() -&gt; ChatGPTClient.Conversation"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B35AEEA-0050-4030-8151-5901C6A29586"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTClient/View/Chats/ChatView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD471011-3414-421A-B674-00370E3C1694"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTClient/View/Conversations/ConversationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "BD471011-3414-421A-B674-00370E3C1694 - 7aed15f03b2a1dae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in ChatGPTClient.ConversationView.body.getter : some"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/View/Conversations/ConversationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1400">
+               </Location>
+               <Location
+                  uuid = "BD471011-3414-421A-B674-00370E3C1694 - 2a45506d7672e623"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationBarTitleDisplayMode(SwiftUI.NavigationBarItem.TitleDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt; in ChatGPTClient.ConversationView.body.getter : some"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/View/Conversations/ConversationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "992">
+               </Location>
+               <Location
+                  uuid = "BD471011-3414-421A-B674-00370E3C1694 - 2a45506d7672e604"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.navigationBarTitleDisplayMode(SwiftUI.NavigationBarItem.TitleDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.Text&gt; in ChatGPTClient.ConversationView.body.getter : some"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/View/Conversations/ConversationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1948">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B901DF6-549B-4288-A1FD-5608A982CB24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTClient/View/Conversations/ConversationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2521B80D-BCDB-4D15-91F5-DBC8CA38F2B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "messages"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2521B80D-BCDB-4D15-91F5-DBC8CA38F2B0 - a734118701c2a41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTClient.ConversationCore.messages.getter : Swift.Set&lt;ChatGPTClient.MessageCore&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "2521B80D-BCDB-4D15-91F5-DBC8CA38F2B0 - a734118701c2a41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTClient.ConversationCore.messages.getter : Swift.Set&lt;ChatGPTClient.MessageCore&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BFB010B-81E5-4748-B827-02D471ADAE99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "makeConversation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9BFB010B-81E5-4748-B827-02D471ADAE99 - 7554bc899a970801"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTClient.ConversationCore.makeConversation() -&gt; ChatGPTClient.Conversation"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "9BFB010B-81E5-4748-B827-02D471ADAE99 - 7554bc899a970843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPTClient.ConversationCore.makeConversation() -&gt; ChatGPTClient.Conversation"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
