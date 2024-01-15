@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-import Kingfisher
 
 struct MessageView: View {
     @Environment(\.colorScheme) var colorScheme
@@ -18,7 +17,7 @@ struct MessageView: View {
             if viewModel.message.role == .user {
                 Spacer()
                 
-                Text(viewModel.message.content ?? "")
+                Text(viewModel.message.content)
                     .textSelection(.enabled)
                     .padding(12)
                     .background(Color(.blue))
@@ -29,7 +28,7 @@ struct MessageView: View {
                     .padding(.leading, 100)
             } else if viewModel.message.role == .assistant {
                 VStack(alignment: .leading) {
-                    Text(viewModel.message.content ?? "")
+                    Text(viewModel.message.content)
                         .textSelection(.enabled)
                         .padding(10)
                         .background(Color(.systemGray5))
@@ -63,7 +62,7 @@ struct MessageView: View {
             } else {
                 Spacer()
                 
-                Text(viewModel.message.content ?? "")
+                Text(viewModel.message.content)
                     .lineLimit(2)
                     .multilineTextAlignment(.center)
                     .padding(12)

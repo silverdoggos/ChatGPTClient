@@ -14,121 +14,10 @@
             filePath = "ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "47"
-            endingLineNumber = "47"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
             landmarkName = "ChatViewModel"
             landmarkType = "3">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "420C2522-0228-45EA-9BB7-C506EF3192E2"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "63"
-            endingLineNumber = "63"
-            landmarkName = "saveConversation(with:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "420C2522-0228-45EA-9BB7-C506EF3192E2 - c171dd09345d50"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ChatGPTClient.ChatViewModel.resetConversation() -&gt; ()"
-                  moduleName = "ChatGPTClient"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "63"
-                  endingLineNumber = "63"
-                  offsetFromSymbolStart = "348">
-               </Location>
-               <Location
-                  uuid = "420C2522-0228-45EA-9BB7-C506EF3192E2 - 64726c56eadbeb56"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ChatGPTClient.ChatViewModel.saveConversation(with: Swift.String) -&gt; ()"
-                  moduleName = "ChatGPTClient"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "64"
-                  endingLineNumber = "64"
-                  offsetFromSymbolStart = "1860">
-               </Location>
-               <Location
-                  uuid = "420C2522-0228-45EA-9BB7-C506EF3192E2 - 2a99a35e6f1e6482"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (ChatGPTClient.Message) -&gt; () in ChatGPTClient.ChatViewModel.saveConversation(with: Swift.String) -&gt; ()"
-                  moduleName = "ChatGPTClient"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "65"
-                  endingLineNumber = "65"
-                  offsetFromSymbolStart = "132">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "AB91DCAD-538C-49FC-A2BC-C6200B80C8C3"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "58"
-            endingLineNumber = "58"
-            landmarkName = "saveConversation(with:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "AB91DCAD-538C-49FC-A2BC-C6200B80C8C3 - 2a99a35e6f1e65a5"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (ChatGPTClient.Message) -&gt; () in ChatGPTClient.ChatViewModel.saveConversation(with: Swift.String) -&gt; ()"
-                  moduleName = "ChatGPTClient"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "58"
-                  endingLineNumber = "58"
-                  offsetFromSymbolStart = "200">
-               </Location>
-               <Location
-                  uuid = "AB91DCAD-538C-49FC-A2BC-C6200B80C8C3 - 64726c56eadbea90"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ChatGPTClient.ChatViewModel.saveConversation(with: Swift.String) -&gt; ()"
-                  moduleName = "ChatGPTClient"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/art/Desktop/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "58"
-                  endingLineNumber = "58"
-                  offsetFromSymbolStart = "1500">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -141,8 +30,8 @@
             filePath = "ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "76"
-            endingLineNumber = "76"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
             landmarkName = "makeConversation()"
             landmarkType = "7">
          </BreakpointContent>
@@ -157,8 +46,8 @@
             filePath = "ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "72"
-            endingLineNumber = "72"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
             landmarkName = "makeConversation()"
             landmarkType = "7">
             <Locations>
@@ -236,8 +125,8 @@
             filePath = "ChatGPTClient/View/Conversations/ConversationView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -299,8 +188,8 @@
             filePath = "ChatGPTClient/View/Conversations/ConversationView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "44"
-            endingLineNumber = "44"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -363,8 +252,8 @@
             filePath = "ChatGPTClient/Model/CoreDataModels/ConversationCore+Extension.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "75"
-            endingLineNumber = "75"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
             landmarkName = "makeConversation()"
             landmarkType = "7">
             <Locations>
@@ -397,6 +286,222 @@
                   startingLineNumber = "75"
                   endingLineNumber = "75"
                   offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC698740-0F90-4655-B7E5-810520060E2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "getAnswerFromGPT(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC698740-0F90-4655-B7E5-810520060E2B - 6565d90bb20a838a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ChatGPTClient.ChatViewModel.getAnswerFromGPT(Swift.String) async -&gt; Swift.Optional&lt;Swift.Array&lt;ChatGPTClient.Message&gt;&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Projects/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "FC698740-0F90-4655-B7E5-810520060E2B - 6565d90bb20a838a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ChatGPTClient.ChatViewModel.getAnswerFromGPT(Swift.String) async -&gt; Swift.Optional&lt;Swift.Array&lt;ChatGPTClient.Message&gt;&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Projects/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "FC698740-0F90-4655-B7E5-810520060E2B - e5928795c119e18b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ChatGPTClient.ChatViewModel.getAnswerFromGPT(Swift.String) async -&gt; Swift.Optional&lt;Swift.Array&lt;ChatGPTClient.Message&gt;&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Projects/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "FC698740-0F90-4655-B7E5-810520060E2B - e5928795c119e18b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ChatGPTClient.ChatViewModel.getAnswerFromGPT(Swift.String) async -&gt; Swift.Optional&lt;Swift.Array&lt;ChatGPTClient.Message&gt;&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Projects/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "FC698740-0F90-4655-B7E5-810520060E2B - 6565d90bb20a838a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ChatGPTClient.ChatViewModel.getAnswerFromGPT(Swift.String) async -&gt; Swift.Optional&lt;Swift.Array&lt;ChatGPTClient.Message&gt;&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Projects/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "FC698740-0F90-4655-B7E5-810520060E2B - 6565d90bb20a838a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ChatGPTClient.ChatViewModel.getAnswerFromGPT(Swift.String) async -&gt; Swift.Optional&lt;Swift.Array&lt;ChatGPTClient.Message&gt;&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Projects/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "FC698740-0F90-4655-B7E5-810520060E2B - e5928795c119e18b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ChatGPTClient.ChatViewModel.getAnswerFromGPT(Swift.String) async -&gt; Swift.Optional&lt;Swift.Array&lt;ChatGPTClient.Message&gt;&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Projects/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "FC698740-0F90-4655-B7E5-810520060E2B - e5928795c119e18b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ChatGPTClient.ChatViewModel.getAnswerFromGPT(Swift.String) async -&gt; Swift.Optional&lt;Swift.Array&lt;ChatGPTClient.Message&gt;&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Projects/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FC9118F-2A9A-4BA2-A594-87DC4D4DD7AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "getAnswerFromGPT(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6FC9118F-2A9A-4BA2-A594-87DC4D4DD7AA - 6565d90bb20a838a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ChatGPTClient.ChatViewModel.getAnswerFromGPT(Swift.String) async -&gt; Swift.Optional&lt;Swift.Array&lt;ChatGPTClient.Message&gt;&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Projects/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "6FC9118F-2A9A-4BA2-A594-87DC4D4DD7AA - 6565d90bb20a838a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ChatGPTClient.ChatViewModel.getAnswerFromGPT(Swift.String) async -&gt; Swift.Optional&lt;Swift.Array&lt;ChatGPTClient.Message&gt;&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Projects/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "6FC9118F-2A9A-4BA2-A594-87DC4D4DD7AA - e5928795c119e18b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ChatGPTClient.ChatViewModel.getAnswerFromGPT(Swift.String) async -&gt; Swift.Optional&lt;Swift.Array&lt;ChatGPTClient.Message&gt;&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Projects/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "6FC9118F-2A9A-4BA2-A594-87DC4D4DD7AA - e5928795c119e18b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ChatGPTClient.ChatViewModel.getAnswerFromGPT(Swift.String) async -&gt; Swift.Optional&lt;Swift.Array&lt;ChatGPTClient.Message&gt;&gt;"
+                  moduleName = "ChatGPTClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/art/Projects/ChatGPTClient/ChatGPTClient/ViewModel/Chats/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "400">
                </Location>
             </Locations>
          </BreakpointContent>

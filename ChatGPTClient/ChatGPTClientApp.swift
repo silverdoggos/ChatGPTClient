@@ -15,7 +15,7 @@ struct ChatGPTClientApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView()
                 .environment(\.managedObjectContext, PersistenceController.shared.viewContext)
         }
     }

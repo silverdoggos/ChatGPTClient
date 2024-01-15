@@ -19,21 +19,6 @@ protocol ApiClient {
         - newTimeout: timeout in seconds
      */
     func setTimeout(_ newTimeout: TimeInterval)
-
-    /**
-     Sends asynchronous request in background.
-     - parameters:
-        - requestData: all additional [request data](x-source-tag://RequestData)
-        - payload: the request payload, is a request body. Must conform to Encoded protocol
-        - onError: callback
-        - onSuccess: callback
-     */
-    func sendAsyncInBackground<T: Encodable>(
-        _ requestData: RequestData,
-        payload: T?,
-        onError: @escaping (Error?) -> Void,
-        onSuccess: @escaping (URLResponse?, Data?) -> Void
-    )
     
     /**
      Sends asynchronous request.
@@ -46,9 +31,4 @@ protocol ApiClient {
     func send<T>(
         _ requestData: RequestData,
         payload: T?) async throws -> Data?
-
-    /**
-     Force cancel the request sent
-     */
-    func cancelRequest()
 }

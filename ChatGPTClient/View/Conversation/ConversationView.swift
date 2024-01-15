@@ -12,14 +12,10 @@ struct ConversationView: View {
     @Environment(\.horizontalSizeClass) var horizontalSizeClass
     @FetchRequest(fetchRequest: ConversationCore.fetchRequest(.all))
     private var conversations: FetchedResults<ConversationCore>
-    private var currentConversation: Conversation?
     
     @State private var columnVisibility: NavigationSplitViewVisibility = .all
     @State private var selectedConversation: ConversationCore?
     private var chatViewModel: ChatViewModel?
-    
-    
-    @ObservedObject var viewModel = ConversationViewModel()
     
     var body: some View {
         NavigationSplitView(columnVisibility: $columnVisibility) {
@@ -31,15 +27,12 @@ struct ConversationView: View {
                     }
                     .padding(.vertical, 10)
                 }
-                
                 .onDelete(perform: deleteItems)
             }
             .padding(.top, 10)
             .navigationTitle("Saved conversations")
-            
-            
+            .navigationBarTitleDisplayMode(.inline)
 
-            
         } detail: {
             if let coversation = selectedConversation?.makeConversation() {
                 ChatView(viewModel: ChatViewModel(conversation: coversation, viewContext: viewContext, chatMode: .saved))
@@ -50,7 +43,6 @@ struct ConversationView: View {
             }
             
         }
-        
         .onAppear() {
             UINavigationBar.appearance().isTranslucent = true
         }
@@ -59,7 +51,16 @@ struct ConversationView: View {
             
     private func deleteItems(offsets: IndexSet) {
         withAnimation {
-            //            ConversationCore.delete(at: offsets, for: Array(conversations))
+            ConversationCore.delete(at: offsets, context: viewContext, for: Array(conversations))
+            refreshDetailViewIfNeeded(with: offsets)
         }
+    }
+    
+    private func refreshDetailViewIfNeeded(with offsets: IndexSet) {
+        offsets.forEach({
+            if conversations[$0] == selectedConversation {
+                selectedConversation = nil
+            }
+        })
     }
 }

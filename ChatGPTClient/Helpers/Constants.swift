@@ -6,7 +6,7 @@
 //
 
 let HOST_API = "https://api.openai.com/v1"
-let OPENAI_TOKEN = "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"
+let OPENAI_TOKEN = "open_ai_token"
 
 struct Constants {
     static let errorWarningText = "Something went wrong. Try again later :("

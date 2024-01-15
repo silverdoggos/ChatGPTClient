@@ -11,9 +11,7 @@ extension Array<Message> {
     func prepareToRequest() -> [[String: String]] {
         var messagesArray: [[String: String]] = []
         for message in self.filter({$0.role != .system}) {
-            if let role = message.role?.rawValue, let text = message.content {
-                messagesArray.append(["role": role, "content": text])
-            }
+            messagesArray.append(["role": message.role.rawValue, "content": message.content])
         }
         return messagesArray
     }

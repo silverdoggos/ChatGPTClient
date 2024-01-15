@@ -20,8 +20,8 @@ fileprivate enum CodingKeys: String, CodingKey {
 
 struct Message: Codable, Identifiable {
     let id: UUID
-    let role: ChatRoles?
-    let content: String?
+    let role: ChatRoles
+    let content: String
     var isBookmarked = false
     let timestamp: Date
     
@@ -48,7 +48,6 @@ struct Message: Codable, Identifiable {
         try container.encode(content, forKey: .content)
     }
 
-    
     mutating func changeBookmark() {
         isBookmarked.toggle()
     }

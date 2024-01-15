@@ -65,6 +65,12 @@ extension ConversationCore {
         request.predicate = predicate
         return request
     }
+    
+    static func delete(at offsets: IndexSet, context: NSManagedObjectContext, for array: [ConversationCore]) {
+        for index in offsets {
+            context.delete(array[index])
+        }
+    }
 }
 
 extension ConversationCore {
